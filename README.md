@@ -10,6 +10,7 @@ All targets are for Linux except for ```foxit-pdf-fuzz.zip``` which is for testi
 ## links
 
  * [afl++](https://github.com/AFLplusplus/AFLplusplus)
- * [afl-cov](https://github.com/vanhauser-thc/afl-cov)
- * [win-afl](https://github.com/googleprojectzero/winafl)
+ * [afl-cov](https://github.com/vanhauser-thc/afl-cov) (coverage for afl)
  * [llvm + libfuzzer](https://github.com/llvm/llvm-project)
+ * [libfuzzer-cov](https://github.com/vanhauser-thc/libfuzzer-cov) (coverage for libfuzzer)
+ * [win-afl](https://github.com/googleprojectzero/winafl)
